@@ -1,6 +1,18 @@
 # Previsão do Tempo da Amazônia  
 ## Previsão do Tempo – Histórico (Março 2025)
 
+## Exploração Estatística
+
+Neste notebook foi realizada uma análise exploratória de dados meteorológicos referentes ao mês de março de 2025, com o objetivo de investigar padrões climáticos associados ao período conhecido como inverno amazônico.
+
+Foram utilizadas as bibliotecas Python `pandas`, `numpy` e `matplotlib` para manipulação, análise e visualização dos dados. Inicialmente, o conjunto de dados foi carregado e inspecionado. Importante salientar que nenhuma valor nulo foi encontrado no dataset, demonstrando pureza nos dados.
+
+Em seguida, foram calculadas estatísticas descritivas das principais variáveis climáticas, incluindo média, mediana, moda, valores mínimo e máximo, desvio padrão, variância, quartis e intervalo interquartil (IQR).
+
+Também foram geradas visualizações gráficas — histogramas, boxplots e gráficos de série temporal — para analisar a distribuição dos dados, identificar possíveis outliers e observar o comportamento das temperaturas e velocidades do vento ao longo do tempo.
+
+Por fim, os resultados estatísticos e gráficos foram interpretados para verificar se os padrões observados são compatíveis com as características típicas do inverno amazônico.
+
 **Nome do Dataset:**  
 Previsão do Tempo da Amazônia: Previsão do Tempo – Histórico (Mar 2025)
 
